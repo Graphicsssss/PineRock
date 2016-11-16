@@ -5,6 +5,7 @@
 /**
  * Generates a single Float32Array based on a list of vectors
  * @param vectorList containing THREE.Vector{2,3,4}
+ *
  */
 function makeFloat32Array(vectorList) {
     "use strict";
